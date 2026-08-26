@@ -66,11 +66,17 @@ _Patient visits, revenue by age group, appointment wait times, and service feedb
 
 ## 🔍 Key Insights
 
-> _To be filled in after analysis — e.g. highest-revenue age group, department with longest average wait time, occupancy trends, satisfaction drivers._
+## 🔍 Key Insights
 
-- Insight 1:
-- Insight 2:
-- Insight 3:
+- **1,679 of 2,506 patients were admitted**, representing approximately **67% of the recorded patient population**.
+
+- **1,483 patients fell into the 1–2 day length-of-stay category**, accounting for approximately **85% of the displayed LOS distribution**, indicating that short stays dominate the dataset.
+
+- **Older patients tend to have longer stays**, with the **60+ age group recording the highest average LOS at 2.00 days**, compared with 1.46 days for patients aged 21–40.
+
+- **The 6–20 age group is the largest patient segment**, with **794 patients**, followed by the 41–60 age group with 695 patients.
+
+- **Gender distribution is relatively balanced**, with approximately **51% male and 49% female patients**, while the dashboard also tracks department-level patient status, ICU activity, deaths, bed occupancy, and treatment revenue.
 
 ---
 

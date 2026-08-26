@@ -55,12 +55,12 @@ A relational dataset spanning multiple linked tables:
 ### Hospital Summary
 _Bed occupancy, staff allocation, and department-level performance._
 
-![Hospital Summary](screenshots/hospital-summary.png)
+![Hospital Summary](hospital_summary.png)
 
 ### Patients Summary
 _Patient visits, revenue by age group, appointment wait times, and service feedback._
 
-![Patients Summary](screenshots/patients-summary.png)
+![Patients Summary](patients_summary.png)
 
 ---
 
